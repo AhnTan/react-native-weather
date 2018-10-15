@@ -1,8 +1,8 @@
-# react-native-weather
+# react-native : WeatherApp_example
 
 <div>
 
-# react-native - WeatherApp_example
+
 
 <img width="400" src="https://user-images.githubusercontent.com/30898520/46946772-cb19f700-d0b3-11e8-90f0-56c708e2ca7a.PNG">
 
